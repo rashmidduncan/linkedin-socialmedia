@@ -1,3 +1,4 @@
-# linkedin-socialmedia
+# linkedin
 
-some change 1
+Given only the connections between the accounts in LinkedIn, find the clusters.
+Data file is in /data directory
